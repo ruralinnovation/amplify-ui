@@ -1,5 +1,15 @@
 # @aws-amplify/ui-react
 
+## 3.1.0
+
+### Minor Changes
+
+- [#2262](https://github.com/aws-amplify/amplify-ui/pull/2262) [`a72cacec2`](https://github.com/aws-amplify/amplify-ui/commit/a72cacec20107a4a991683ab02863981ee325de4) Thanks [@hein-j](https://github.com/hein-j)! - Update internal type EscapeHatchProps to accept `unknown`, so that customers can set overrides of any type.
+
+### Patch Changes
+
+- [#2263](https://github.com/aws-amplify/amplify-ui/pull/2263) [`14d35db95`](https://github.com/aws-amplify/amplify-ui/commit/14d35db950c5ae00409ac483a32a0726e8caa2ee) Thanks [@slaymance](https://github.com/slaymance)! - Update to latest version of maplibre-gl-js-amplify to support maplibre-gl v2
+
 ## 3.0.4
 
 ### Patch Changes
